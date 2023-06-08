@@ -20,4 +20,8 @@ this will sum the scores saving by trainging by weight of
 
 ### 
 
+
+
+
+
 #### Detailed steps will be suppled after by the reason of time.
